@@ -65,7 +65,7 @@ pip install -r requirements.txt
 **5. Execute a Análise:**
 Toda a análise está contida no Jupyter Notebook `notebooks/analise_filmes.ipynb`. Abra-o em um ambiente compatível (como o VS Code, Jupyter Lab ou Jupyter Notebook) e execute as células na ordem apresentada.
 
-**6. Ferramentas e Bibliotecas
+**6. Ferramentas e Bibliotecas**
 
 * **Python 3.10**
 * **Pandas & NumPy:** Para manipulação e análise de dados.
